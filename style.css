@@ -1,3 +1,29 @@
 h1 {
     text-align: center;
 }
+
+.index {   
+    background-color: darkseagreen;
+    font-family: 'Open Sans', sans-serif;
+} 
+
+.newsletter {
+    background-color: rgb(105, 221, 221);
+    font-family: 'Roboto Condensed', sans-serif;
+}
+
+.about {
+    background-color: rgb(133, 133, 133);
+    font-family: 'Fuzzy Bubbles', cursive;
+}
+
+a {
+    display: inline-block;
+    padding: 50px;
+}
+
+.nvm div{
+    
+}
+
+
